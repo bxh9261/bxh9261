@@ -1,6 +1,6 @@
 - I’m currently working on ...
 
-1. HOW I STOPPED SCROLLING/PROJECT TO BE NAMED LATER
+1. GET THE CAT A SCRATCHING POST
 -A Unity-based game that compliments the novella I'm working on about phone addiction, the benefits of unplugging and how I became less of a doomscroller and touched some grass
 
 2. STATSBERGER
@@ -17,7 +17,7 @@
 
 - I’m looking to collaborate on ...
 
-If artists and writers like any of my ideas, message me and we can talk logistics.
+Game projects! If artists and writers like any of my ideas, message me and we can talk logistics.
 
 - How to reach me: ...
 
