@@ -2,12 +2,12 @@
 
 1. GET THE CAT A SCRATCHING POST
 -A Unity-based game that compliments the novella I'm working on about phone addiction, the benefits of unplugging and how I became less of a doomscroller and touched some grass
+Demo available at: https://blochbergerspecials.itch.io/get-the-cat-a-scratching-post
 
-2. STATSBERGER
--A tool that automatically pulls MLB highlight clips and creates compilations for assisting with baseball-related content on YouTube
-
-3. PIRATEBALL 1K26
+2. PIRATEBALL 1K26
 -Another Unity game that's kinda just backyard baseball with my DND characters
+
+3. Safety Training Simulations
 
 - I’m currently learning ...
 
@@ -23,10 +23,10 @@ Game projects! If artists and writers like any of my ideas, message me and we ca
 
 bhanel1998@gmail.com
 
-- 😄 Pronouns: ...
+- Pronouns: ...
 
 they/them
 
-- ⚡ Fun fact: ...
+- Fun fact: ...
 
 My first word was oatmeal. I think I could beat Buzz Aldrin in an oatmeal eating contest. Especially because he is dead.
